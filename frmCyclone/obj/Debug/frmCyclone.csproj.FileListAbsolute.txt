@@ -1,0 +1,16 @@
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\bin\Debug\frmCyclone.exe.config
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\bin\Debug\frmCyclone.exe
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\bin\Debug\frmCyclone.pdb
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\obj\Debug\frmCyclone.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\obj\Debug\frmCyclone.frmExploiter.resources
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\obj\Debug\frmCyclone.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\obj\Debug\frmCyclone.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\obj\Debug\frmCyclone.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\obj\Debug\frmCyclone.exe
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\obj\Debug\frmCyclone.pdb
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\obj\Debug\frmCyclone.frmLogin.resources
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\obj\Debug\frmCyclone.frmMenu.resources
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\bin\Debug\itextsharp.dll
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\bin\Debug\itextsharp.xml
+C:\Users\Windows 10\source\repos\frmCyclone\frmCyclone\obj\Debug\frmCyclone.csproj.CopyComplete
