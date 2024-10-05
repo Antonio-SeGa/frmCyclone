@@ -19,7 +19,7 @@
 -- Cargar datos en la tabla exploiter
 --
 	INSERT INTO exploiter
-    VALUES (1356,5236,'01','gio','gio@1','SI');
+    VALUES (1356,5236,'01','ant','ant@1','SI');
 
 --
 -- Estructura de la tabla casualties
@@ -288,7 +288,7 @@
 /*	
 	Vista Ciclones
 	La Vista incluye la consulta que muestra los nombres de los ciclones, la latitud, la longitud y la llegada a tierra.
-    Satisface los requisitos de unión, requisito de filtro, requisito de enlace. 
+    Satisface los requisitos de uniÃ³n, requisito de filtro, requisito de enlace. 
 */
 	CREATE VIEW cyclon AS
 	SELECT C.cyclone_name AS 'Cyclone Name', L.latitude AS 'Latitude', L.longitude AS 'Longitude', L.landfall AS 'Landfall'
@@ -319,8 +319,8 @@
 	WHERE wind_type = 'High';
 
 /*
-	Vista Presión
-	La consulta muestra la presión de mezcla promedio de cada ciclón
+	Vista PresiÃ³n
+	La consulta muestra la presiÃ³n de mezcla promedio de cada ciclÃ³n
 */
 	CREATE VIEW avg_min_pressure AS
     SELECT C.cyclone_name AS 'Cyclone Name', AVG(W.min_pressure_millibar) AS 'Avg Min Pressure'
@@ -330,9 +330,9 @@
 	 GROUP BY C.cyclone_name;
 
 /*	
-	Vista Daños Ciclon
-	La consulta muestra todos los ciclones críticos que se clasifican como 'Huracanes' que tienen el Atlántico 
-	como su costa de origen y sobre la cantidad promedio de víctimas y los costos estimados de daños (en millones de USD) de todos los ciclones registrados en la base de datos.
+	Vista DaÃ±os Ciclon
+	La consulta muestra todos los ciclones crÃ­ticos que se clasifican como 'Huracanes' que tienen el AtlÃ¡ntico 
+	como su costa de origen y sobre la cantidad promedio de vÃ­ctimas y los costos estimados de daÃ±os (en millones de USD) de todos los ciclones registrados en la base de datos.
 */
 
 	CREATE VIEW critical_atlantic_hurricanes AS
@@ -352,7 +352,7 @@
 
 /*	
 	procedimieto almacenado Inicio de Sesion 
-	resive como parametro el nombre de usuario y contaseña para regresar como parametro un valor entero  
+	resive como parametro el nombre de usuario y contaseÃ±a para regresar como parametro un valor entero  
 */
 	CREATE PROC  sp_Loguear(
 	  @exploiter varchar(30),
